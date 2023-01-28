@@ -1,0 +1,47 @@
+header{
+    background-color: #06131f;
+    height: 5.5vh;
+}
+
+main{
+    background-color: #1d2d3c;
+    height: 94.5vh;
+}
+
+
+
+.disco{
+    background-color: #112030;
+
+    cursor: pointer;
+}
+
+.wrapper{
+    background-color: rgba(17, 32, 49, 0.95);
+    height: 94.5vh;
+    width: 90%;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 5.5vh;
+    left: 100px;
+
+
+}
+
+.bottone{
+    border: 2px solid white;
+    width: 75px;
+    height: 75px;
+
+    cursor: pointer;
+
+    position: absolute;
+    top: 5.5vh;
+    right: 50px;
+}
